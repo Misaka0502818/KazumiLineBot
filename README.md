@@ -12,6 +12,6 @@ pip3 install thrift==0.11.0
 pip3 install requests  
 pip3 install pytz  
 pip3 install humanfriendly  
-git clone https://github.com/43884612/KazumiLineBot
-cd KazumiLineBot
+git clone https://github.com/43884612/KazumiLineBot  
+cd KazumiLineBot  
 python3 x.py  
