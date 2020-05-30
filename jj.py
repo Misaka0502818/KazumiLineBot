@@ -8,7 +8,7 @@ import time, random, sys, json, codecs, threading, glob, re, string, os, request
 #==============================================================================#
 botStart = time.time()
 
-cl = LINE()
+cl = LINE("jameschen030818@gmail.com","20030818James")
 #cl = LINE("TOKEN KAMU")
 #cl = LINE("Email","Password")
 cl.log("Auth Token : " + str(cl.authToken))
